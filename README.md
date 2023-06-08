@@ -34,7 +34,7 @@ Case 1 and Case 2
 While searching for someone in a picture
 ![image](https://github.com/Ali0Hassan/face-recognition-project/assets/92372680/a0710557-c301-4c58-9bdd-089905f02daf)
 
-
+Note : you have to use a folder named "Faces" while using each script 
 
 
 
