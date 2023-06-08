@@ -28,10 +28,14 @@ to the model and send back the result as a text that will be read by TTS (text t
 speech) feature.
 
 there is two cases for 
-Case 1
-![case1111](https://github.com/Ali0Hassan/face-recognition-project/assets/92372680/b893b4dc-e33b-4273-a877-7b49aff46b4a)
-Case 2
-![case2 ](https://github.com/Ali0Hassan/face-recognition-project/assets/92372680/3a51593d-60de-455b-9bf7-8f5323028ca3)
+Case 1 and Case 2
+![image](https://github.com/Ali0Hassan/face-recognition-project/assets/92372680/fede09a0-2081-4566-a9d4-aaedd71314d2)
 
 While searching for someone in a picture
-![Search Faces](https://github.com/Ali0Hassan/face-recognition-project/assets/92372680/d16effcd-5a6d-4fb4-b261-ed7fd376bc5f)
+![image](https://github.com/Ali0Hassan/face-recognition-project/assets/92372680/a0710557-c301-4c58-9bdd-089905f02daf)
+
+
+
+
+
+
